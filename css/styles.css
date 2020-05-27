@@ -120,7 +120,7 @@ input[type=text], select {
 }
 .btn{
     background-color:  rgba(212, 226, 236, 0.411);
-    margin-top: 1%;
+    margin-top: 0.1%;
     width: 10%;
 }
 .txt{
