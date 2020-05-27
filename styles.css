@@ -63,3 +63,8 @@ input[type=text], select {
     border-radius: 7px;
     background-color:  rgba(212, 226, 236, 0.411);
   }
+  input[type=email], select {
+    padding: 4px;
+    border-radius: 7px;
+    background-color:  rgba(212, 226, 236, 0.411);
+  }
