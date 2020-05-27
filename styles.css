@@ -58,3 +58,8 @@ h1 {
     color: #161616;
     transition: 0.3s;
 }
+input[type=text], select {
+    padding: 4px;
+    border-radius: 7px;
+    background-color:  rgba(212, 226, 236, 0.411);
+  }
