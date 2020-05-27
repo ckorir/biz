@@ -74,11 +74,6 @@ input[type=text], select {
     resize: none;
     background-color:  rgba(212, 226, 236, 0.411);
     border-radius: 7px;
-    padding-top: 40%;
-    
-  }
-  ::placeholder{
-      color: rgb(36, 0, 241);
   }
 
 .order{
