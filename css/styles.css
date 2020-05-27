@@ -39,6 +39,7 @@ h1 {
     top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
+    
 }
 
 .button a {
@@ -63,19 +64,40 @@ input[type=text], select {
     border-radius: 7px;
     background-color:  rgba(212, 226, 236, 0.411);
     margin-bottom: 2%;
+    width: 60%;
   }
   input[type=email], select {
     padding: 4px;
     border-radius: 7px;
     background-color:  rgba(212, 226, 236, 0.411);
     margin-bottom: 2%;
+    width: 60%;
   }
   textarea {
     resize: none;
     background-color:  rgba(212, 226, 236, 0.411);
     border-radius: 7px;
+    width: 60%;
   }
 
 .order{
     text-align: center;
+    padding-top: 14%;
+}
+.btn{
+    background-color:  rgba(212, 226, 236, 0.411);
+    margin-top: 1%;
+    width: 10%;
+}
+.txt{
+   
+    
+    transform: translate(-50%, -400%);
+    font-family: "Cosi Azure";
+    font-size: 50px;
+    color: rgba(255, 255, 255, 0.692); 
+}
+
+.hp{
+    padding-top: 20%;
 }
