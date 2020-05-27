@@ -95,6 +95,18 @@ input[type=text], select {
     margin-bottom: 2%;
     width: 60%;
   }
+  input[type=number], select {
+    padding: 4px;
+    border-radius: 7px;
+    background-color:  rgba(212, 226, 236, 0.411);
+    margin-bottom: 2%;
+    width: 60%;
+  }
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+  }
   textarea {
     resize: none;
     background-color:  rgba(212, 226, 236, 0.411);
@@ -104,7 +116,7 @@ input[type=text], select {
 
 .order{
     text-align: center;
-    padding-top: 14%;
+    padding-top: 12%;
 }
 .btn{
     background-color:  rgba(212, 226, 236, 0.411);
